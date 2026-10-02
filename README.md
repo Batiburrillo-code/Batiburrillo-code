@@ -114,13 +114,6 @@ filosofía:   "La ingeniería es explotar la parte creadora de nosotros."
 
 ## <img src="https://img.icons8.com/fluency/28/time-machine.png" align="center"/> Ahora mismo
 
-```text
-Arquitectura de software      ▰▰▰▱▱▱▱▱▱▱   creciendo
-AZ-104 Azure Administrator    ▰▰▰▱▱▱▱▱▱▱   en curso
-Análisis de datos             ▰▰▱▱▱▱▱▱▱▱   explorando
-Agentes de IA (LangGraph)     ▰▰▱▱▱▱▱▱▱▱   aprendiendo
-```
-
 <img src="./assets/divider.svg" width="100%" />
 
 <p align="center">
@@ -128,4 +121,3 @@ Agentes de IA (LangGraph)     ▰▰▱▱▱▱▱▱▱▱   aprendiendo
   <a href="mailto:TU_CORREO"><img src="https://img.shields.io/badge/Email-0D1B3E?style=for-the-badge&logo=gmail&logoColor=F9A8D4" /></a>
 </p>
 
-<p align="center"><i>✦ Crear para entender ✦</i></p>
