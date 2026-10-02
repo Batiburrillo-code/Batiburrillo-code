@@ -1,104 +1,131 @@
-<!-- ═══════════════ HEADER ═══════════════ -->
+<!-- Paleta: navy #0D1B3E · azul #60A5FA · lavanda #C7D2FE · sakura #F9A8D4 -->
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Adri%C3%A1n%20Serrato&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Tech%20Architecture%20Analyst%20%40%20Accenture&descAlignY=58&descSize=18" />
+  <img src="./assets/galaxy-header.svg" width="100%" alt="Adrián Serrato — galaxia" />
 </p>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=800&color=4FC3F7&center=true&vCenter=true&width=600&lines=DevOps+%26+Cloud+%E2%98%81%EF%B8%8F;Homelab+con+Raspberry+Pi+%F0%9F%8D%93;Construyendo+agentes+de+IA+%F0%9F%A4%96;Crear+para+entender+%E2%9C%A8" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=3200&pause=900&color=F9A8D4&center=true&vCenter=true&width=640&lines=Aprendiendo+a+pensar+como+arquitecto+de+software;Fascinado+por+el+an%C3%A1lisis+de+datos;DevOps+%26+Cloud+%E2%98%81%EF%B8%8F;Mirando+las+estrellas+%F0%9F%94%AD" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Monterrey,_MX-0f2027?style=for-the-badge&logo=googlemaps&logoColor=4FC3F7" />
-  <img src="https://img.shields.io/badge/Accenture-A100FF?style=for-the-badge&logo=accenture&logoColor=white" />
-  <img src="https://img.shields.io/badge/FIME--UANL-203a43?style=for-the-badge&logo=bookstack&logoColor=white" />
-  <img src="https://img.shields.io/badge/AZ--900-Certified-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Monterrey,_MX-0D1B3E?style=for-the-badge&logo=googlemaps&logoColor=F9A8D4" />
+  <img src="https://img.shields.io/badge/Accenture-0D1B3E?style=for-the-badge&logo=accenture&logoColor=60A5FA" />
+  <img src="https://img.shields.io/badge/FIME--UANL-0D1B3E?style=for-the-badge&logo=bookstack&logoColor=C7D2FE" />
+  <img src="https://img.shields.io/badge/AZ--900-Certified-F9A8D4?style=for-the-badge&logo=microsoftazure&logoColor=0D1B3E&labelColor=0D1B3E" />
 </p>
 
----
+<img src="./assets/divider.svg" width="100%" />
 
-## 🧭 `whoami`
+## <img src="https://img.icons8.com/fluency/28/user-male-circle.png" align="center"/> `whoami`
 
 ```yaml
 nombre:      Adrián Alejandro Serrato Flores
 rol:         Tech Architecture Analyst @ Accenture México
 formación:   Ingeniería en Software · FIME-UANL
-enfoque:     DevOps · Cloud (Azure) · Automatización · Agentes de IA
+creciendo:   Arquitectura de software 🏗️
+me_apasiona: Análisis de datos 📊 · Astronomía 🔭
 os_favorito: Fedora KDE 🐧
 filosofía:   "La ingeniería es explotar la parte creadora de nosotros."
 ```
 
-- 🚀 Entré a Accenture por la **DevOps Academy** de Monterrey.
-- ☁️ Certificado **AZ-900**. Ahora estoy estudiando para **AZ-104** (Azure Administrator).
-- 🧑‍🤝‍🧑 Fui **Coordinador General de GEITS**, el grupo estudiantil de Ingeniería en Software de FIME, con ~400 alumnos.
+- 🏗️ Estoy desarrollando mis habilidades de **arquitecto de software**: diseñar sistemas que escalen, que se entiendan y que duren.
+- 📊 Me interesa muchísimo el **análisis de datos**: encontrar la historia que hay detrás de los números.
+- ☁️ Entré a Accenture por la **DevOps Academy**. Certificado **AZ-900**, ahora rumbo a **AZ-104**.
 - 🤖 Explorando cómo orquestar **agentes de IA** que no solo organicen pendientes, sino que los resuelvan.
+- 🧑‍🤝‍🧑 Fui **Coordinador General de GEITS**, el grupo estudiantil de Ingeniería en Software de FIME (~400 alumnos).
 
----
+<img src="./assets/divider.svg" width="100%" />
 
-## 🛠️ Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,python,java,cpp,cs,html,css,bootstrap&perline=8" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=git,github,githubactions,azure,linux,fedora,ubuntu,raspberrypi,mysql&perline=9" />
-</p>
-
----
-
-## 🔭 Proyectos destacados
-
-| | Proyecto | Qué es |
-|:-:|---|---|
-| 🔊 | **[Voice-reader](https://github.com/Batiburrillo-code/Voice-reader)** | Extensión de navegador tipo Speechify, **libre y sin servidores**. Lee páginas web y PDFs con voces neuronales offline (Piper) y resalta párrafo, oración y palabra en tiempo real. |
-| 🍓 | **HomeLab** | NAS casero con Raspberry Pi, gestor de contraseñas autoalojado con Vaultwarden y planes de Pi-hole y servidor de Minecraft. |
-| 🩺 | **MediTrack** | Proyecto de la DevOps Academy de Accenture. |
-| 🎙️ | **Batiburrillo FM** | Podcast donde hablo de las reflexiones de mi semana. |
-
----
-
-## 📊 Estadísticas
+## <img src="https://img.icons8.com/fluency/28/maintenance.png" align="center"/> Stack
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Batiburrillo-code&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Batiburrillo-code&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+  <img src="https://skillicons.dev/icons?i=python,js,java,cpp,cs,html,css,bootstrap&theme=dark&perline=8" />
+  <br/><br/>
+  <img src="https://skillicons.dev/icons?i=mysql,git,github,githubactions,azure,linux,fedora,ubuntu,raspberrypi&theme=dark&perline=9" />
+</p>
+
+<img src="./assets/divider.svg" width="100%" />
+
+## <img src="https://img.icons8.com/fluency/28/rocket.png" align="center"/> Proyectos destacados
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🔊 <a href="https://github.com/Batiburrillo-code/Voice-reader">Voice-reader</a></h3>
+      Extensión de navegador tipo Speechify, <b>libre y sin servidores</b>. Lee páginas web y PDFs con voces neuronales offline (Piper) y resalta párrafo, oración y palabra en tiempo real.
+      <br/><br/>
+      <img src="https://img.shields.io/badge/JavaScript-0D1B3E?style=flat-square&logo=javascript&logoColor=F9A8D4" />
+      <img src="https://img.shields.io/badge/Manifest_V3-0D1B3E?style=flat-square&logo=googlechrome&logoColor=60A5FA" />
+      <img src="https://img.shields.io/badge/pdf.js-0D1B3E?style=flat-square&logo=mozilla&logoColor=C7D2FE" />
+    </td>
+    <td width="50%" valign="top">
+      <h3>🍓 HomeLab</h3>
+      NAS casero con Raspberry Pi, gestor de contraseñas autoalojado con <b>Vaultwarden</b> y planes de Pi-hole y servidor de Minecraft.
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Raspberry_Pi-0D1B3E?style=flat-square&logo=raspberrypi&logoColor=F9A8D4" />
+      <img src="https://img.shields.io/badge/OpenMediaVault-0D1B3E?style=flat-square&logo=linux&logoColor=60A5FA" />
+      <img src="https://img.shields.io/badge/Vaultwarden-0D1B3E?style=flat-square&logo=bitwarden&logoColor=C7D2FE" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🩺 MediTrack</h3>
+      Proyecto de la DevOps Academy de Accenture.
+      <br/><br/>
+      <img src="https://img.shields.io/badge/DevOps-0D1B3E?style=flat-square&logo=azuredevops&logoColor=F9A8D4" />
+    </td>
+    <td width="50%" valign="top">
+      <h3>🤖 Agentes de IA</h3>
+      Investigando cómo armar un equipo de agentes orquestados que ejecuten tareas reales, no solo que las organicen.
+      <br/><br/>
+      <img src="https://img.shields.io/badge/LangGraph-0D1B3E?style=flat-square&logo=langchain&logoColor=60A5FA" />
+      <img src="https://img.shields.io/badge/CrewAI-0D1B3E?style=flat-square&logo=python&logoColor=C7D2FE" />
+    </td>
+  </tr>
+</table>
+
+<img src="./assets/divider.svg" width="100%" />
+
+## <img src="https://img.icons8.com/fluency/28/combo-chart.png" align="center"/> Estadísticas
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Batiburrillo-code&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1B3E&title_color=F9A8D4&icon_color=60A5FA&text_color=C7D2FE&ring_color=F9A8D4" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Batiburrillo-code&layout=donut&langs_count=6&hide_border=true&bg_color=0D1B3E&title_color=F9A8D4&text_color=C7D2FE" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Batiburrillo-code&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=Batiburrillo-code&hide_border=true&background=0D1B3E&ring=F9A8D4&fire=F9A8D4&currStreakLabel=F9A8D4&sideLabels=93C5FD&currStreakNum=C7D2FE&sideNums=C7D2FE&dates=93C5FD&stroke=1E3A8A" />
 </p>
 
 <p align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Batiburrillo-code&theme=tokyo-night&hide_border=true&area=true" />
+  <img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=Batiburrillo-code&hide_border=true&area=true&bg_color=0D1B3E&color=C7D2FE&line=60A5FA&point=F9A8D4&area_color=60A5FA&title_color=F9A8D4&custom_title=Actividad%20de%20contribuciones" />
 </p>
 
----
+<img src="./assets/divider.svg" width="100%" />
 
-## 🌌 Fuera del código
+## <img src="https://img.icons8.com/fluency/28/telescope.png" align="center"/> Fuera del código
 
 <p align="center">
-  🔭 Física y astronomía &nbsp;·&nbsp; 🎵 Música &nbsp;·&nbsp; ✍️ Escritura &nbsp;·&nbsp; 🎬 Video ensayos &nbsp;·&nbsp; 🏋️ Gym y running
+  🔭 <b>Astronomía</b> y física &nbsp;✦&nbsp; 📊 Datos que cuentan historias &nbsp;✦&nbsp; 🎵 Música &nbsp;✦&nbsp; ✍️ Escritura &nbsp;✦&nbsp; 🏋️ Gym y running
 </p>
 
----
-
-## 📈 Ahora mismo
+## <img src="https://img.icons8.com/fluency/28/time-machine.png" align="center"/> Ahora mismo
 
 ```text
-AZ-104 Azure Administrator   ▰▰▰▱▱▱▱▱▱▱   en curso
-Agentes de IA (LangGraph)    ▰▰▱▱▱▱▱▱▱▱   aprendiendo
-HomeLab · discos del NAS     ▰▰▰▰▰▰▱▱▱▱   casi
+Arquitectura de software      ▰▰▰▱▱▱▱▱▱▱   creciendo
+AZ-104 Azure Administrator    ▰▰▰▱▱▱▱▱▱▱   en curso
+Análisis de datos             ▰▰▱▱▱▱▱▱▱▱   explorando
+Agentes de IA (LangGraph)     ▰▰▱▱▱▱▱▱▱▱   aprendiendo
 ```
 
----
-
-## 📫 Contacto
+<img src="./assets/divider.svg" width="100%" />
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/TU_USUARIO"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:TU_CORREO"><img src="https://img.shields.io/badge/Email-203a43?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/TU_USUARIO"><img src="https://img.shields.io/badge/LinkedIn-0D1B3E?style=for-the-badge&logo=linkedin&logoColor=60A5FA" /></a>
+  <a href="mailto:TU_CORREO"><img src="https://img.shields.io/badge/Email-0D1B3E?style=for-the-badge&logo=gmail&logoColor=F9A8D4" /></a>
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer" />
-</p>
+<p align="center"><i>✦ Crear para entender ✦</i></p>
